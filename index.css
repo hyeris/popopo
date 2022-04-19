@@ -605,7 +605,7 @@ main > div > .title > p{
 ======================================================================================================================================== 
 */
 
-@media (min-width:768px) and (max-width:1023px) {
+@media (min-width:768px) and (max-width:102x) {
     body{
         background-color: rgb(224, 216, 206); 
         position: relative; 
