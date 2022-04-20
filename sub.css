@@ -1561,7 +1561,9 @@ font-weight: bold;
         height: 2px;
         position: relative;
         transition: background .2s ease-out;
-        width: 18px;
+        width: 20px;
+        margin-top: 5px;
+        margin-right: 5px;
         
       }
       .black .burger-icon .burger-sticks{
