@@ -951,7 +951,7 @@ font-weight: bold;
         left:48%;
         color: rgb(94, 94, 94);
         font-weight: 100;
-        font-size: 20px;
+        font-size: 18px;
         margin-right: 10vw;
         
     }
@@ -969,7 +969,7 @@ font-weight: bold;
     
     header > nav    a {
         color: black;
-        font-size: 3vw;
+        font-size: 30px;
         
         text-transform:uppercase;
         
@@ -1314,7 +1314,7 @@ font-weight: bold;
     
     header > nav    a {
         color: black;
-        font-size: 3vw;
+        font-size: 35px;
         
         text-transform:uppercase;
         
